@@ -9,7 +9,7 @@ This repository documents my daily HTML & CSS practice as part of a 100-day lear
 - Create responsive designs without guessing
 
 ## Structure
-Each folder represents a focused learning block or week.
+Each folder represents a focused learning week.
 
 ## Progress
 - Week 1: HTML fundamentals and page structure
